@@ -1,0 +1,25 @@
+.header {
+  /* border: black solid 2px; */
+  text-align: center;
+}
+.list-todo {
+  border-radius: 10px;
+  width: 97%;
+  /* border: solid black 2px; */
+
+}
+
+.main-card {
+  border: gray solid 1px;
+}
+
+.section {
+  border: gray solid 1px;
+
+  width: 100%;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
